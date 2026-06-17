@@ -1,8 +1,8 @@
-import { UserPage } from './pages/users/UsersPage'
+import { UsersPage } from './pages/users/UsersPage.tsx'
 
 function App() {
 
-  return <UserPage />
+  return <UsersPage />
 }
 
 export default App
